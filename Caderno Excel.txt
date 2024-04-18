@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=9OIWw2h7al0&list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni
+
+- Lembretes -
+
+O arquivo Excel é no formato .XLSX
+
+- Índice de Comandos - 
+
+
+- Dúvidas - 
+
+_____________
+Cor de Fundo
+_____________
+
+Cor de fundo da célula = Sombreamento da célula 
+
+_______________ 
+
