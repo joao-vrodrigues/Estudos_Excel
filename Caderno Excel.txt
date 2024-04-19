@@ -15,5 +15,73 @@ _____________
 
 Cor de fundo da célula = Sombreamento da célula 
 
-_______________ 
 
+______________________________________________ 
+Definindo, congelando e descongelando painéis 
+______________________________________________
+
+aba: exibição > Tópico: Janela > Opção: Congelar Painéis 
+
+
+__________________
+Filtrando Tabelas
+__________________
+
+É possível criar tabelas na mão através da aplicação de um filtro. Aba: Início > Tópico: Edição > 
+Opção: Classificar e filtrar > Opção: Filtro
+
+
+_____________________________________________
+Associando, alterando e removendo Hyperlinks
+_____________________________________________ 
+
+Utilizado quando quisermos que alguém acesse um link quando entrar na nossa planilha compartilhada
+
+*Depois de ter escrito ou colocado de forma manual um texto na tabela*
+
+Aba: Inserir > Tópico: Hiperlink > Opção: Página da Web > Colar o endereço web no campo "Endereço"
+
+Lembrando que nessa opção do Hiperlink é possível vincular não somente a um link, mas também a um documento, ou ao 
+envio de e-mail
+
+
+____________________________________________________
+Protegendo e desprotegendo abas, planilhas e células
+____________________________________________________
+
+Bom para fazer questionários 
+
+Aba: Revisão > Opção: Proteger Planilha > Estipular uma senha 
+
+As duas primeiras opções "Selecionar células bloqueadas" e "Selecionar células desbloqueadas" permitem que outra
+pessoa navegue pela planilha, selecionanado células, mas não pode editar. 
+
+Para permitir que uma célula específica possa ser editada: 
+Botão direito na célula específica > Formatar células > Proteção > des-selecionar a opção "Bloquear"  
+
+
+__________________
+Contagem de ítens 
+__________________
+
+Também conhnecido por: Calculando uma contagem de valores não nulos
+
+Aba: Página inicial > Tópico: Edição > Opção: AutoSoma > Selecionar o intervalo 
+
+Exemplo: 
+
+Itens	Valor/Kg		
+Banana	R$1,99
+Limão	R$9,75
+Maçã	R$2,80
+Cebola	
+Mamão	R$2,90
+Laranja	R$1,25
+Pêra
+Melão	R$5,00
+
+Encontrados: 
+Valor Total:
+Média:
+Mais caro:
+Mais barato:		 
